@@ -1,5 +1,5 @@
 var cantidadDeGatos = 3;
-var cantidadDePasos = 6;
+var cantidadDePasos = 9;
 for (var i = 1; i <= cantidadDeGatos; i++) {
     var pasos = '';
     for (var j = 1; j <= cantidadDePasos; j++) {

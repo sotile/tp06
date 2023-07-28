@@ -1,5 +1,5 @@
 var cantidadDeGatos = 10;
-var cantidadDePasos = 4;
+var cantidadDePasos = 5;
 var gatos = ['🐈', '🐈‍⬛'];
 for (var i = 1; i <= cantidadDeGatos; i++) {
     var pasos = '';
